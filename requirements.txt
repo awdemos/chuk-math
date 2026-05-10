@@ -1,0 +1,5 @@
+pytest
+sympy
+langchain
+langchain-ollama
+ollama
